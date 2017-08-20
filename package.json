@@ -1,0 +1,26 @@
+{
+  "name": "negative-infinity",
+  "version": "1.0.0",
+  "description": "Check if a number given is negative Infinity or not.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitfaf/negative-infinity.git"
+  },
+  "keywords": [
+    "\"negative",
+    "infinity\"",
+    "\"negative",
+    "infinity",
+    "check\""
+  ],
+  "author": "Git Faf <Git.Faf@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/gitfaf/negative-infinity/issues"
+  },
+  "homepage": "https://github.com/gitfaf/negative-infinity#readme"
+}
